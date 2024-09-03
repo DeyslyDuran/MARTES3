@@ -1,0 +1,122 @@
+*{
+    margin: 0;
+}
+.cara{
+    background-color: red;
+    width: 400px;
+    height: 400px;
+    position: absolute;
+    top: 200px;
+    left: 400px;
+    border: 20px;
+    border-radius: 200px;
+}
+.sombrero{
+    background-color:purple;
+    width: 200px;
+    height: 200px;
+    position: absolute;
+    top: 0px;
+    left: 500px;
+}
+.sombrero2{
+    background-color: purple;
+    width: 800px;
+    height: 50px;
+    position: absolute;
+    top: 200px;
+    left: 220px;
+    border-top-left-radius: 400px;
+    border-radius: 70%;
+    text-align: center;
+}
+.ojo1{
+    background-color: yellow;
+    width: 80px;
+    height: 80px;
+    position: absolute;
+    top: 100px;
+    left: 80px;
+    border: 20px;
+    border-radius: 400px;
+}
+.ojo2{
+    background-color: yellow;
+    width: 80px;
+    height: 80px;
+    position: absolute;
+    top: 100px;
+    left: 240px;
+    border: 20px;
+    border-radius: 400px;
+}
+.pupila1{
+    background-color: black;
+    width: 30px;
+    height: 30px;
+    position: absolute;
+    top: 25px;
+    left: 25px;
+    border: 20px;
+    border-radius: 400px;
+}
+.pupila2{
+    background-color: black;
+    width: 30px;
+    height: 30px;
+    position: absolute;
+    top: 25px;
+    left: 25px;
+    border: 20px;
+    border-radius: 400px;
+}
+.boca{
+    background-color: green;
+    height: 60px;
+    width: 200px;
+    position: absolute;
+    top: 260px;
+    left: 100px;
+    border: 20px;
+    border-radius: 70%;
+}
+.lengua{
+    background-color: rgb(0, 0, 0);
+    height: 40px;
+    width: 180px;
+    position: absolute;
+    top: 10px;
+    left: 10px;
+    border: 20px;
+    border-radius: 70%;
+}
+.corbata2{
+    background-color: pink;
+    height: 80px;
+    width: 80px;
+    position: absolute;
+    top: 350px;
+    left: 165px;
+    border: 20px;
+    border-radius: 400px;
+}
+.corbata1{
+    background-color: pink;
+    height: 50px;
+    width: 150px;
+    position: absolute;
+    top: 365px;
+    left: 70px;
+    border: 20px;
+    border-radius: 70%;
+}
+.corbata3{
+    background-color: pink;
+    height: 50px;
+    width: 150px;
+    position: absolute;
+    top: 365px;
+    left: 180px;
+    border: 20px;
+    border-radius: 70%;
+}
